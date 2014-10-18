@@ -1,0 +1,22 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "youngbye",
+  "license": "none",
+  "dependencies": {
+    "express": "^4.9.8",
+    "utility": "^1.2.0"
+  }
+}
